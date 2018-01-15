@@ -75,4 +75,3 @@ defaults:
       comments: false
       share: false
       related: false
-      toc: true
