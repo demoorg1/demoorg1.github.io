@@ -75,3 +75,8 @@ defaults:
       comments: false
       share: false
       related: false
+
+  - scope:
+      path: assets/images
+    values:
+      image: true
