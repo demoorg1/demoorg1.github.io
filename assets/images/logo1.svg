@@ -16,7 +16,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="logo1.svg">
+   sodipodi:docname="logo1.svg"
+   inkscape:export-filename="/home/bev/Documents/Brackets/demoorg1/assets/images/logo1.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs4">
     <linearGradient
@@ -40,7 +43,7 @@
        x2="534.28571"
        y2="159.50507"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.85314685,0,0,1,92.747252,82.857143)" />
+       gradientTransform="matrix(0.85314685,0,0,1,99.890109,52.857143)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -49,9 +52,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-162.14286"
-     inkscape:cy="514.28571"
+     inkscape:zoom="0.7"
+     inkscape:cx="111.83374"
+     inkscape:cy="571.94516"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -113,8 +116,8 @@
     <ellipse
        style="opacity:1;fill:url(#linearGradient5602);fill-opacity:1;fill-rule:evenodd;stroke-width:4.68200016;stroke-miterlimit:4;stroke-dasharray:none"
        id="path4150"
-       cx="374.28571"
-       cy="242.36221"
+       cx="381.42856"
+       cy="212.36221"
        rx="174.28572"
        ry="161.42857" />
   </g>
