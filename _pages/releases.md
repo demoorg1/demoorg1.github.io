@@ -1,3 +1,7 @@
+---
+permalink: /releases/
+---
+
 # Release Announcements
 
 - Release 1...
