@@ -7,13 +7,13 @@ feature_row:
     title: Feature 1
     excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod...
     btn_label: Learn More
-    # url:
+    url: https://demoorg1.github.io/project1/
   - image_path: assets/images/mm-responsive-feature.png
     alt: responsive
     title: Feature 2
     excerpt: tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...
     btn_label: Learn More
-    # url:
+    url: https://demoorg1.github.io/project2/
   - image_path: assets/images/mm-free-feature.png
     alt: free
     title: Feature 3
