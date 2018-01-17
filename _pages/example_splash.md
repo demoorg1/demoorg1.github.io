@@ -4,15 +4,15 @@ permalink: /example/splash/
 feature_row:
   - image_path: assets/images/mm-customizable-feature.png
     alt: customizable
-    title: Feature 1
+    title: Project 1
     excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod...
-    btn_label: Learn More
+    btn_label: Visit Project 1
     url: https://demoorg1.github.io/project1/
   - image_path: assets/images/mm-responsive-feature.png
     alt: responsive
-    title: Feature 2
+    title: Project 2
     excerpt: tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...
-    btn_label: Learn More
+    btn_label: Visit Project 2
     url: https://demoorg1.github.io/project2/
   - image_path: assets/images/mm-free-feature.png
     alt: free
